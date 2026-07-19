@@ -44,4 +44,6 @@ void main(){
   } catch (e) {
     print('Общая ошибка $e');
   }
+
+  print('commit first');
 }
